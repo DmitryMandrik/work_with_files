@@ -1,0 +1,19 @@
+This is test file!
+Integer: 3 1 3 
+
+Float: 2.71 3.14 
+
+String: bird cat dog 2 mouse horse 4 mouse bird2 
+
+Symbol: xpath xpath css 
+
+First element of array is: bird
+dog Second element of array is: 3
+Last element of array is: bird2
+Penultimate element of array is: 4
+Last -3 elements of array are: horse cat 4 bird2 
+First 3 elements of array are: bird bird 3 cat 
+Even values of array are: Elements from 3 to 5 of array are: 1 dog 
+2.71 css horse bird2 
+Odd values of array are: 3 1 2.71 2 3.14 3 4  
+Hash is {"i0"=>"bird", "i1"=>3, "i2"=>"cat", "i3"=>1, "i4"=>"dog", "i5"=>2.71, "i6"=>:xpath, "i7"=>"2", "i8"=>"mouse", "i9"=>3.14, "i10"=>:css, "i11"=>3, "i12"=>"horse", "i13"=>"4", "i14"=>"bird2"}

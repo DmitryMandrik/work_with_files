@@ -1,0 +1,15 @@
+'bird'
+3
+'cat'
+1
+'dog'
+2.71
+:xpath
+'2'
+'mouse'
+3.14
+:css
+3
+'horse'
+'4'
+'bird2'
